@@ -1,0 +1,13 @@
+{
+  "name": "storyblok-node-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "msw": "^2.7.0",
+    "storyblok-js-client": "^6.10.7"
+  }
+}
